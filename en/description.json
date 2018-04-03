@@ -9,7 +9,7 @@
 		"subtitle": {
 			"description": "A summary of your app that will appear under your app’s name on the App Store for customers with devices running iOS 11 or later",
 			"max-length": 30,
-			"value": "The most secure and anonymous messenger, encrypted with Blockchain"
+			"value": "The future of messaging."
 		},
 		"privacy-policy-url": {
 			"description": "A URL that links to your organization's privacy policy. Privacy policies are required for apps that are Made for Kids or offer auto-renewable or free subscriptions. They are also required for apps with account registration, apps that access a user’s existing account, or as otherwise required by law. Privacy policies are recommended for apps that collect user- or device-related data",
